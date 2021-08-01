@@ -5,7 +5,7 @@ Cars wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/Cars/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/Cars/raw/main/install.sh)"
 ```
   
 Manual install:
